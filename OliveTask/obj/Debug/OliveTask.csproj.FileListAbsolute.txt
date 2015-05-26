@@ -1,0 +1,6 @@
+e:\documents\visual studio 2013\Projects\OliveTask\OliveTask\bin\OliveTask.dll.config
+e:\documents\visual studio 2013\Projects\OliveTask\OliveTask\bin\OliveTask.dll
+e:\documents\visual studio 2013\Projects\OliveTask\OliveTask\bin\OliveTask.pdb
+e:\documents\visual studio 2013\Projects\OliveTask\OliveTask\obj\Debug\OliveTask.csprojResolveAssemblyReference.cache
+e:\documents\visual studio 2013\Projects\OliveTask\OliveTask\obj\Debug\OliveTask.dll
+e:\documents\visual studio 2013\Projects\OliveTask\OliveTask\obj\Debug\OliveTask.pdb
